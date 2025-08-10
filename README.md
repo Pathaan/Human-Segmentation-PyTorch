@@ -31,4 +31,20 @@ Setting up GitHub Actions for CI/CD deployment.
 Deploying the application on an AWS EC2 instance.
 
 
+## Project 
+Create Environment
+``python -m create venv venv
+``
+Activate your Environment
+```
+venv/Scripts/activate
+```
+Upgrade pip
+```
+python -m pip install --upgrade pip
+```
+Create Ipykernel
+python -m ipykernel install --user --name=segmentation
+```
+
 
