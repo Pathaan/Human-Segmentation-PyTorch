@@ -33,7 +33,8 @@ Deploying the application on an AWS EC2 instance.
 
 ## Project 
 Create Environment
-```python -m create venv venv
+```
+python -m create venv venv
 ```
 Activate your Environment
 ```
