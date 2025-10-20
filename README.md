@@ -1,5 +1,5 @@
 # In Developing Period
-# Human Segmentation using PyTorch Deep Learning
+# Human Segmentation using PyTorch
 ## Problem Statement
 The goal of this project is to extract the human portion from an image. Our dataset contains 350 training images along with 350 corresponding ground truth mask images. Additionally, we have a train.csv file, which serves as the annotation file for both the training images and their respective masks.
 
